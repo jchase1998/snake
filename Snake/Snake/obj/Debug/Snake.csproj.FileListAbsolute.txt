@@ -1,0 +1,6 @@
+D:\github\jchase1998\snake\Snake\Snake\bin\Debug\Snake.exe.config
+D:\github\jchase1998\snake\Snake\Snake\bin\Debug\Snake.exe
+D:\github\jchase1998\snake\Snake\Snake\bin\Debug\Snake.pdb
+D:\github\jchase1998\snake\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+D:\github\jchase1998\snake\Snake\Snake\obj\Debug\Snake.exe
+D:\github\jchase1998\snake\Snake\Snake\obj\Debug\Snake.pdb
